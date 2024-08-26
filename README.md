@@ -12,6 +12,13 @@
 
 ## Figma do projeto: 
 
+## Arquivos iniciais do Curso no Github:
+### https://github.com/alura-cursos/aluranewsletter/tree/49ad22e834517cd7204f1f723a1b8a0a0c1178ce
+
 ## Artigos Alura: 
 
 ## Outros artigos e links importantes: 
+### [CodePen](https://codepen.io/)
+### [Download Visual Studio Code](https://code.visualstudio.com/download)
+### [Download Git](https://git-scm.com/downloads)
+### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
