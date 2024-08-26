@@ -17,6 +17,7 @@
 
 ## Artigos Alura: 
 ### [Tailwind: Qual framework usar? Bootstrap vs Tailwind](https://www.alura.com.br/artigos/tailwind-framework-bootstrap-tailwind)
+### [Tailwind: Alinhando elementos](https://www.alura.com.br/artigos/tailwind-alinhando-elementos)
 
 ## Outros artigos e links importantes: 
 ### [Tailwind CSS](https://tailwindcss.com/)
